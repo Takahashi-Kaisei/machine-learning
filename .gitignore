@@ -9,6 +9,7 @@ __pycache__/
 
 # Notebook and export artifacts
 *.nbconvert.ipynb
+notebook/*.html
 
 # Frontend dependencies
 materials/node_modules/
