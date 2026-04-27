@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Notebook and export artifacts
+*.nbconvert.ipynb
+notebook/*.html
+
+# Frontend dependencies
+materials/node_modules/
+
+# Local environment files
+.env
+.env.*
